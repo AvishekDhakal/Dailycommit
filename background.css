@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    width: 700px;
+    height: 600px;
+    transform: translate(300px,100px);
+    border: red solid 0.2px;
+}
+.row1{
+    width: 100%;
+    height: 300px;
+    border-bottom: 0.1px solid black;
+}
+.column1{
+    width: 49.9%;
+    height: 100%;
+    
+    background-color: aliceblue;
+    float: left;
+    border-right: 0.1px dotted black;
+}
+.column2{
+    background-image: url(https://images.unsplash.com/photo-1553095066-5014bc7b7f2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d2FsbCUyMGJhY2tncm91bmR8ZW58MHx8MHx8&w=1000&q=80);
+    background-size: cover;
+    width: 50%;
+    background-color: beige;
+    height: 100%;
+    float: left;
+
+}
+.row2{
+    width: 100%;
+    height: 300px;
+
+
+}
+.rcolumn1{
+    width: 49.9%;
+    height: 100%;
+    
+    background-image: url(https://media.istockphoto.com/photos/fog-in-black-smoke-and-mist-on-wooden-table-halloween-backdrop-picture-id1341515382?b=1&k=20&m=1341515382&s=170667a&w=0&h=tWLxX861vcc63wxX1flAvwVhZouZ3blavWpUsu0K55k=);
+    float: left;
+    border-right: 0.1px dotted black;
+}
+.rcolumn2{
+    width: 50%;
+    background-color: beige;
+    height: 100%;
+    float: left;
+
+}
+
+
+    
